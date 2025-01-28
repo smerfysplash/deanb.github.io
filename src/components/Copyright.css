@@ -1,0 +1,10 @@
+.copy {
+    display: flex;
+    justify-content: flex-start;
+    padding-left: 80px;
+    padding-bottom: 50px;
+  }
+
+.copyright {
+  font-size: 17px;
+}

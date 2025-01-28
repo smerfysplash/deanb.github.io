@@ -1,0 +1,38 @@
+.svg-contact {
+    height: 30px;
+    color: white;
+}
+
+ul {
+  margin-bottom: 30px;
+}
+
+.ConSubTit {
+    font-size: 20px;
+}
+
+.ConSocial {
+    font-size: 20px;
+    margin-bottom: 30px;
+}
+
+.listaCon {
+    list-style: none;
+    margin-right: 20px;
+}
+
+.cont-desna {
+    display: flex;
+    flex-direction: row;
+}
+
+.ConPAdresa {
+    margin-bottom: 30px;
+    color: black;
+    padding-top: 30px;
+}
+
+.ConPEmail {
+    color: black;
+    padding-top: 30px;
+}

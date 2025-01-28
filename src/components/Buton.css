@@ -1,0 +1,47 @@
+.next {
+  display: flex;
+  justify-content: flex-end;
+  margin-top: 295%;
+  padding-right: 200px;
+}
+
+.arrow {
+    height: 40px;
+    position: absolute;
+    margin-left: 20px;
+  }
+  
+  .arrow1 {
+  height: 40px;
+  position: absolute;
+  margin-left: 20px;
+  margin-top: 2.5px;
+  }
+  
+  .button {
+    font-size: 30px;
+    font-family: 'Poppins', sans-serif;
+    margin-left: 80px;
+  }
+  
+  .link {
+  background-image: linear-gradient(
+    to right,
+    #FFC94A,
+    #FFC94A 50%,
+    #fff 50%
+  );
+  background-size: 200% 100%;
+  background-position: -100%;
+  display: inline-block;
+  padding: 5px 0;
+  position: relative;
+  background-clip: text;
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  transition: all 0.3s ease-in-out;
+  }
+  
+  .link:hover {
+  background-position: 0;
+  }
